@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Kiki-KSU by LeddaZ
+kernel.string=Kiki-MIUI-KSU by LeddaZ
 do.devicecheck=1
 do.modules=0
 do.systemless=1
